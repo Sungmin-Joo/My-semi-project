@@ -28,6 +28,7 @@ char Mainloop()
 	printf(titel_5);
 	printf("%60s", "1. Going first\n");
 	printf("%60s", "2. Going second\n");
+	printf("%60s", "3. Exit game\n");
 	printf("\n\n\n");
 	printf("%60s", "Please choose the options :");
 	scanf("%c", &mode);
@@ -35,12 +36,14 @@ char Mainloop()
 	return mode;
 }
 
-void first_attack()
+void Going_second()
 {
 	char* user_num[3];
-	int current_number = 0;
+	int current_number = 2;
 	int i;
 	system("cls");
+	printf("%40s", "This is an attack on the computer. :");
+	printf("%d\n", current_number);
 	while (1)
 	{
 		printf("%80s", "Input number ");
@@ -89,13 +92,13 @@ int main()
 	{
 		char mode;
 		mode = Mainloop();
-		if (mode == '1')
+		if (mode == '2')
 		{
-			first_attack();
+			Going_second();
 		}
-		else
+		else if(mode == '3')
 		{
-
+			break;
 		}
 	}
 	return 0;
