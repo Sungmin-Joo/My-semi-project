@@ -52,10 +52,10 @@ void Game_over(int start_time)
 {
 	system("cls");
 	printf("\a");
-	printf("GAMEOVER!!!!\n");
-	printf("GAMEOVER!!!!\n");
-	printf("GAMEOVER!!!!\n");
-	printf("GAMEOVER!!!!\n");
+	printf("%20s","GAMEOVER!!!!\n");
+	printf("%20s", "GAMEOVER!!!!\n");
+	printf("%20s", "GAMEOVER!!!!\n");
+	printf("%20s", "GAMEOVER!!!!\n");
 	printf("----- Record : %d sec -----\n", time(NULL) - start_time);
 	while (_getch() != 'q');
 	//Performed in the event of a game-over.
@@ -65,7 +65,7 @@ int main()
 {
 	int i = 0, j = 0;
 	char first_line[10][31] = { 0, };
-	int pro,gameover = 0;
+	int pro, gameover = 0;
 	int start_time = time(NULL);
 	srand(start_time);
 	while (1)
@@ -84,7 +84,7 @@ int main()
 		}
 		//Make star in first line
 		printf("------------------------------\n");
-		
+
 		printf("%s", first_line[0]);
 		printf(" | %d |\n", time(NULL) - start_time);
 		//First star line.
