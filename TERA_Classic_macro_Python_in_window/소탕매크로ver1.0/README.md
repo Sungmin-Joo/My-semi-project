@@ -3,12 +3,8 @@
 
 
  * 테라 클래식이라는 모바일게임에서 "소탕 퀘스트"를 자동으로 진행하고 싶어서 매크로를 제작  
- * 커스텀 하려면 Python 3.7.4, pyautogui 설치가 필요 (다른 버전은 테스트 해 보지 않음)  
- * Python 설치는 공식 [홈페이지](https://www.python.org/) 참고   
+ * 커스텀 하려면 Python 3.7.4, pyautogui 설치가 필요 (다른 버전은 테스트 해 보지 않음)     
  
-
- * 3. Python 언어를 사용해서 구동 및 커스텀을 하기위한 개발환경 설명
-  
 
  ## 1. 시작 전 에뮬레이터 세팅 
  
@@ -34,17 +30,21 @@
  ### * 항상 윈도우 최상위에 LDPlay가 실행되고 있어야 동작한다. 따라서 자는시간에 이용한다.
  
  
- ## 3. Python 언어를 사용해서 구동 및 커스텀을 하기위한 개발환경 설명
-  
- 
+ ## 3. Python 언어를 사용해서 구동 및 커스텀을 하기위한 개발환경 설명  
+ ### Python 설치하기  
+ Python 설치는 공식 [홈페이지](https://www.python.org/) 참고  
+ ### pyautogui 설치하기  
+```sh
+pip install pyautigui
+```
+ ### tkinter 설치하기  
+ 간혹 Python은 설치되어있는데 tkinter가 설치되어있지 않은 경우가 있다.  
+ ```sh
+ pip install tkinter
+ ```
+ ### 구동 및 커스텀 하기
+ 나의 Repositry 혹은 킹갓 Google을 이용하여 Python을 공부해서 커스텀을 하면 된다.
  
  ## 정보
 
  주성민(Joo Sung Min) – big-joo_dev@naver.com
-
- BSD 3-Clause License 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
-
- [LICENSE](https://github.com/Sungmin-Joo/My_own_project/blob/master/LICENSE)
- 
- * (오픈소스 라이센스 관련 지식이 부족하여 모듈에 적용되는 라이센스들이 호환되도록 유지함)
-
