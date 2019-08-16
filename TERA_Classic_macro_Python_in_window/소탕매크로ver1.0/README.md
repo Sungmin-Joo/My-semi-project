@@ -43,7 +43,7 @@ pip install pyautigui
  pip install tkinter
  ```
  ### 구동 및 커스텀 하기
- 나의 Repositry 혹은 킹갓 Google을 이용하여 Python을 공부해서 커스텀을 하면 된다.
+ [요기](https://github.com/Sungmin-Joo/Codes_for_Beginners/tree/master/Python) 혹은 킹갓 Google을 이용하여 Python을 공부해서 커스텀을 하면 된다.
  
  ## 정보
 
