@@ -9,13 +9,13 @@
  
  프로젝트 이름 옆에 언어와 운영체제에 관한 정보가 있고, 준비가 필요한 프로젝트는 아래 명시 해 두었습니다.
  
- C :
+ * C :
  
- Window visual studio -> Widow VScode  
+     * Window visual studio -> Widow VScode  
  
- Python :
+ * Python :
 
- Winodw VScode in python 3.7  
+     * Winodw VScode in python 3.7  
   
   
 
@@ -28,9 +28,14 @@
  Python 3.7은 공식 [홈페이지](https://www.python.org/)  참고  
    
  #### pyautogui 설치하기  
- '''  
- pip install pyautogui
- '''  
+```sh
+pip install pyautigui
+```
+ #### tkinter 설치하기  
+ 간혹 Python은 설치되어있는데 tkinter가 설치되어있지 않은 경우가 있다.  
+ ```sh
+ pip install tkinter
+ ```
  
  * 추가적인 사용 방법은 폴더 안에 첨부
 
