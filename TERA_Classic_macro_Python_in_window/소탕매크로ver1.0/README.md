@@ -1,4 +1,4 @@
-# 테라 클래식 소탕 매크로
+# 테라 클래식 소탕 매크로 설명서
 > Python 모듈로 간단하게 구현.
 
 
@@ -45,6 +45,10 @@ pip install pyautigui
  ### 구동 및 커스텀 하기
  [요기](https://github.com/Sungmin-Joo/Codes_for_Beginners/tree/master/Python) 혹은 킹갓 Google을 이용하여 Python을 공부해서 커스텀을 하면 된다.
  
+ ## 버전
+ * v1.0 - 엄청 간단하게 버튼을 찾아서 눌러준다. (버전이라 표기하기도 민망하다)
+ 
  ## 정보
 
- 주성민(Joo Sung Min) – big-joo_dev@naver.com
+ 주성민(Joo Sung Min) – big-joo_dev@naver.com  
+ 버그가 있다면 제보를 부탁 드립니다.
