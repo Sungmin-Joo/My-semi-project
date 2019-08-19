@@ -22,7 +22,7 @@
 
  ## 프로젝트에 관한 간단한 설명 
  
- ### TERA_Classic_macro_Python_in_window  
+ * ### TERA_Classic_macro_Python_in_window  
  
  * 테라 클래식이라는 모바일게임에서 "소탕 퀘스트"를 자동으로 진행하고 싶어서 매크로를 제작  
  * Python 3.7.4, pyautogui 설치가 필요 (다른 버전은 테스트 해 보지 않음)  
@@ -41,7 +41,7 @@ pip install pyautigui
  
 
   
- ### 자료구조수업_시험준비_for_friends_C  
+ * ### 자료구조수업_시험준비_for_friends_C  
  "자료구조 및 알고리즘" 수업을 수강하면서, 수업을 어려워하는 친구들이 시험 준비를 쉽게할 수 있도록 도와주기 위해 시작  
  간단한 시험 준비 프로그램과 여러가지 자료구조, 알고리즘에 관한 코드가 있음
 
