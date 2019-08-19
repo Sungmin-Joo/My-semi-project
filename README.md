@@ -24,10 +24,10 @@
  
  * ### TERA_Classic_macro_Python_in_window  
  
-  * #### 테라 클래식이라는 모바일게임에서 "소탕 퀘스트"를 자동으로 진행하고 싶어서 매크로를 제작  
-  * #### Python 3.7.4, pyautogui 설치가 필요 (다른 버전은 테스트 해 보지 않음)  
-  * #### Python 설치는 공식 [홈페이지](https://www.python.org/) 참고  
-  * #### .exe 파일만 실행시키려면 굳이 설치 할 필요 없음!  
+  테라 클래식이라는 모바일게임에서 "소탕 퀘스트"를 자동으로 진행하고 싶어서 매크로를 제작  
+  Python 3.7.4, pyautogui 설치가 필요 (다른 버전은 테스트 해 보지 않음)  
+  Python 설치는 공식 [홈페이지](https://www.python.org/) 참고  
+  .exe 파일만 실행시키려면 굳이 설치 할 필요 없음!  
  
  #### pyautogui 설치하기  
 ```sh
