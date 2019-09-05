@@ -108,7 +108,7 @@ void main(void) {
 		printf("%30s", "* 3. Exit the program.\n");
 		printf("\n%24s", "Select number : ");
 		scanf("%c", &n);
-		
+
 		if (n == '1')
 		{
 			while (1)

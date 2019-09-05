@@ -1,4 +1,5 @@
-﻿#include <stdio.h>
+﻿//이거만 풀면 중간 반타작은 넘는다. 장담한다.
+#include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 #include <time.h>

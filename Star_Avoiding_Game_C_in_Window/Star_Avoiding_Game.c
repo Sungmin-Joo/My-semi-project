@@ -89,7 +89,7 @@ int main()
 		printf(" | %d |\n", time(NULL) - start_time);
 		//First star line.
 		for (j = 1; j < 10; j++) { printf("\n%s\n", first_line[j]); }
-		//Second ~ end star line. 
+		//Second ~ end star line.
 
 		Detect_key();
 		//Detect left,right key.
