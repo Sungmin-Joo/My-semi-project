@@ -52,9 +52,11 @@ C언어와 window console 명령어를 사용하여 눈으로 이해하기 쉬�
 
 
 
- ## 정보
-
- 주성민(Joo Sung Min) – big-joo_dev@naver.com
+ ## Info
+ Name      : 주성민(Joo Sung Min)  
+ E-mail    : big-joo_dev@naver.com  
+ Phone     : 010-2770-4367
+ Univesity : Korea Polytechnic University  
 
  BSD 3-Clause License 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
